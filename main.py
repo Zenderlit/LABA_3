@@ -1,5 +1,5 @@
 from waitress import serve
-from collections import Counter
+from collections import сounter
 from string import punctuation
 
 def get_most_commonword(filename):
